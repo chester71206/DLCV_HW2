@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision
+numpy
+opencv-python
+transformers>=4.40.0
+albumentations
