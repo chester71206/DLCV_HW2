@@ -1,7 +1,7 @@
 # NYCU Computer Vision 2026 HW2
 
-- Student ID: [Your Student ID]
-- Name: [Your Name]
+- Student ID: 314551178
+- Name: 陳鎮成
 
 ## Introduction
 This repository contains the source code for Homework 2: Digit Detection. The model uses a DETR-based architecture (RT-DETRv2) with a ResNet-50 backbone to detect digits (0-9) from RGB images.
@@ -36,6 +36,5 @@ The script will load the specified weights, process the test images, and output 
 
 ## Performance Snapshot
 
-(Please replace the image link below with your actual CodaBench leaderboard screenshot before pushing to GitHub)
+<img width="1118" height="281" alt="image" src="https://github.com/user-attachments/assets/dd089607-ff94-4aaa-9c82-ad601bcdb2d8" />
 
-![Leaderboard Snapshot](path_to_your_screenshot.png)
